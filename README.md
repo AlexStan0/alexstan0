@@ -7,7 +7,7 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 [<img align="left" alt="Java" height="28px" src="java.png" />](https://www.java.com/)
 [<img align="left" alt="Bash" height="28px" src="bash.png" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Git" height="28px" src="git.png" />](https://git-scm.com/)
-[<img align="left" alt="Windows" height="28px" src="windows.png" />](https://www.microsoft.com/en-ca/windows?r=1)
+[<img align="left" alt="Windows" height="28px" src="windows2.png" />](https://www.microsoft.com/en-ca/windows?r=1)
 [<img align="left" alt="Linux" height="28px" src="linux.png" />](https://www.linux.org/)
 [<img align="left" alt="Arch Linux" height="28px" src="arch.png" />](https://archlinux.org/)
 [<img align="left" alt="JS" height="28px" src="js.png" />](https://www.javascript.com)
