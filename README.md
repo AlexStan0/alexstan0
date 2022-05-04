@@ -1,6 +1,6 @@
 # Alex Stan
 
-Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and skilled programmer with over 2 years experience in backend development.
+Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a passionate and skilled programmer with over 2 years experience in backend development.
 
 ## Skills
 
@@ -18,6 +18,7 @@ Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and sk
 [<img align="left" alt="Visual Studio" height="28px" src="vs.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="trueNas" height="28px" src="trueNAS.png" />](https://www.truenas.com/)
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
+[<img align="left" alt="Proxmox" height="28px" src="proxmox.png" />](https://proxmox.com/en)
 <br />
 
 I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. <br>
