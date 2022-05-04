@@ -1,7 +1,6 @@
 # Alex Stan
 
 Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and skilled programmer with over 2 years experience in backend development.
-I am also very intersted in Hypervisors and Enterprise Hardware. 
 
 ## Skills
 
@@ -17,14 +16,14 @@ I am also very intersted in Hypervisors and Enterprise Hardware.
 [<img align="left" alt="NodeJS" height="28px" src="node.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Visual Studio" height="28px" src="vs.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="trueNas" height="28px" src="trueNAS.png" />](https://www.truenas.com/)
-[<img align="left" alt="proxmox" height="28px" src="proxmox.png" />](https://proxmox.com/en)
+[<img align="left" alt="proxmox" height="32px" src="proxmox.png" />](https://proxmox.com/en)
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
 [<img align="left" alt="Windows 10" height="28px" src="windows.png" />](https://www.microsoft.com/en-ca/windows?r=1)
 <br />
 
-I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. \
+I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. <br>
 
-I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am also very familiar with the freeNAS and trueNAS operating systems. I am also very comfortable when it comes to using the shell of the aformantioned Operating Systems. \
+I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am also very familiar with the freeNAS and trueNAS operating systems. I am also very comfortable when it comes to using the shell of the aformantioned Operating Systems. 
 
 ## Hobies & Interests
 
