@@ -9,6 +9,7 @@ Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and sk
 [<img align="left" alt="Git" height="28px" src="git.png" />](https://git-scm.com/)
 [<img align="left" alt="Linux" height="28px" src="linux.png" />](https://www.linux.org/)
 [<img align="left" alt="Arch Linux" height="28px" src="arch.png" />](https://archlinux.org/)
+[<img align="left" alt="Windows 10" height="28px" src="windows.png" />](https://www.microsoft.com/en-ca/windows?r=1)
 [<img align="left" alt="JS" height="28px" src="js.png" />](https://www.javascript.com)
 [<img align="left" alt="HTML" height="28px" src="html.png" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS" height="28px" src="css.png" />](https://www.w3schools.com/Css/)
@@ -18,7 +19,6 @@ Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and sk
 [<img align="left" alt="trueNas" height="28px" src="trueNAS.png" />](https://www.truenas.com/)
 [<img align="left" alt="proxmox" height="32px" src="proxmox.png" />](https://proxmox.com/en)
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
-[<img align="left" alt="Windows 10" height="28px" src="windows.png" />](https://www.microsoft.com/en-ca/windows?r=1)
 <br />
 
 I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. <br>
