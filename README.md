@@ -20,7 +20,8 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
 [<img align="left" alt="Proxmox" height="28px" src="proxmox.png" />](https://proxmox.com/en)
 
-<br />
+<br>
+<br>
 
 I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. <br>
 
