@@ -19,13 +19,16 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 [<img align="left" alt="trueNas" height="28px" src="trueNAS.png" />](https://www.truenas.com/)
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
 [<img align="left" alt="Proxmox" height="28px" src="proxmox.png" />](https://proxmox.com/en)
+[<img align="left" alt="JSON" height="28px" src="JSON.png" />](https://www.json.org/json-en.html)
 
 <br>
 <br>
 
 I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I use Arch Linux and i3 as my daily driver, and so I am comfortable with writing CLI applications for Unix/mac systems.  I am also familiar with many features of the Windows NTFS family of Operating Systems. <br>
 
-I am very experienced with both type-1 and type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am also very familiar with freeNAS Operating Systems, althought I would say that I am more experienced when it comes to type-1 hypervisors.
+I am most familiar with JavaScript/NodeJS and have been using it for the longest time, although I am also familiar and comfortable with Java, Python, and Bash. I daily drive both Arch Linux with the i3 window manager and Windows 10, and so I am comfortable when it comes to working with both the Linux kernel and the Windows powershell environment. 
+
+When it comes to virtualization I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am very familiar with the TrueNAS Operating System. I am for more experienced when it comes to Type-1 hypervisors due to having worked with them on enterprise hardware.
 
 ## Hobies & Interests
 
