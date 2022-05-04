@@ -16,8 +16,8 @@ Hi There :wave: I'm Alex and welcome to my GitHub page. I am a passionate and sk
 [<img align="left" alt="NodeJS" height="28px" src="node.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Visual Studio" height="28px" src="vs.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="trueNas" height="28px" src="trueNAS.png" />](https://www.truenas.com/)
-[<img align="left" alt="proxmox" height="32px" src="proxmox.png" />](https://proxmox.com/en)
 [<img align="left" alt="Virtual Box" height="28px" src="virtualBox.png" />](https://www.virtualbox.org/)
+[<img align="left" alt="proxmox" height="32px" src="proxmox.png" />](https://proxmox.com/en)
 [<img align="left" alt="Windows 10" height="28px" src="windows.png" />](https://www.microsoft.com/en-ca/windows?r=1)
 <br />
 
