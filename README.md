@@ -24,7 +24,7 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 
 I have been using Javascript/NodeJS for the longest and I am the most comfortable with it. I am also comfortable with Java, Python, and Bash. I've been using Arch and i3 as a daily driver for the longest time, and so I am comfortable with writing CLI applications for Unix/mac systems. Although I am also familiar with the Windows NTFS family of Operating Systems. <br>
 
-I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am also very familiar with the freeNAS and trueNAS operating systems. I am also very comfortable when it comes to using the shell of the aformantioned Operating Systems. 
+I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am also very familiar with freeNAS Operating Systems. I am also very comfortable when it comes to using the shell of the aformantioned Operating Systems. 
 
 ## Hobies & Interests
 
