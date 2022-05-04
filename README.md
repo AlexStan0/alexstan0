@@ -24,9 +24,10 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 <br>
 <br>
 
-I have been using JavaScript/NodeJS for the longest time and so I am very comfortable with it, although I am also familiar and comfortable with Java, Python, and Bash. I daily drive both Arch Linux with the i3 window manager and Windows 10, and so I am comfortable when it comes to working with both the Linux kernel and the Windows powershell environment. <br>
+I have been using JavaScript/NodeJS for the longest time and so I am very comfortable with it, although I am also familiar and comfortable with Java, Python, and Bash. I daily drive both Arch Linux with the i3 window manager alongside Windows 10. I am comfortable working in both the Linux command line interface alongside the Windows Powershell command line interface. 
 
-When it comes to virtualization I am very experienced with both Type-1 and Type-2 hypervisors, namely Proxmox and Oracle Virtal-Box. Having numerous iSCSI disks for personal use I am very familiar with the TrueNAS Operating System. I am for more experienced when it comes to Type-1 hypervisors due to having worked with them on enterprise hardware.
+I am extremly proficient when it comes to hypervisors and virtualization. I have mostly worked with Type-1 Hypervisors on Legcay and Modern Enterprise hardware, name Proxmox. I am also very proficient in Type-2 Hypervisors, namely Virtual-Box by Oracle. I am very experienced when it comes to troubleshooting both hardware and software issues.
+
 
 ## Hobies & Interests
 
