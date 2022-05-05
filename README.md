@@ -4,22 +4,22 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 
 ## Skills
 
-[<img align="left" alt="Java" height="32px" src="java.png" />](https://www.java.com/)
-[<img align="left" alt="Bash" height="32px" src="bash.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="Git" height="32px" src="git.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" height="32px" src="linux.png" />](https://www.linux.org/)
-[<img align="left" alt="Arch Linux" height="32px" src="arch.png" />](https://archlinux.org/)
-[<img align="left" alt="Windows" height="32px" src="windows2.png" />](https://www.microsoft.com/en-ca/windows?r=1)
-[<img align="left" alt="JS" height="32px" src="js.png" />](https://www.javascript.com)
-[<img align="left" alt="HTML" height="32px" src="html.png" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="CSS" height="32px" src="css.png" />](https://www.w3schools.com/Css/)
-[<img align="left" alt="Raspberry Pi" height="32px" src="rpi.png" />](https://www.raspberrypi.org/)
-[<img align="left" alt="NodeJS" height="32px" src="node.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Visual Studio" height="32px" src="vs.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="trueNas" height="32px" src="trueNAS.png" />](https://www.truenas.com/)
-[<img align="left" alt="Virtual Box" height="32px" src="virtualBox.png" />](https://www.virtualbox.org/)
-[<img align="left" alt="Proxmox" height="32px" src="proxmox.png" />](https://proxmox.com/en)
-[<img align="left" alt="JSON" height="32px" src="JSON.png" />](https://www.json.org/json-en.html)
+[<img align="left" alt="Java" height="30px" src="java.png" />](https://www.java.com/)
+[<img align="left" alt="Bash" height="30px" src="bash.png" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Git" height="30px" src="git.png" />](https://git-scm.com/)
+[<img align="left" alt="Linux" height="30px" src="linux.png" />](https://www.linux.org/)
+[<img align="left" alt="Arch Linux" height="30px" src="arch.png" />](https://archlinux.org/)
+[<img align="left" alt="Windows" height="30px" src="windows2.png" />](https://www.microsoft.com/en-ca/windows?r=1)
+[<img align="left" alt="JS" height="30px" src="js.png" />](https://www.javascript.com)
+[<img align="left" alt="HTML" height="30px" src="html.png" />](https://html.spec.whatwg.org/)
+[<img align="left" alt="CSS" height="30px" src="css.png" />](https://www.w3schools.com/Css/)
+[<img align="left" alt="Raspberry Pi" height="30px" src="rpi.png" />](https://www.raspberrypi.org/)
+[<img align="left" alt="NodeJS" height="30px" src="node.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Visual Studio" height="30px" src="vs.png" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="trueNas" height="30px" src="trueNAS.png" />](https://www.truenas.com/)
+[<img align="left" alt="Virtual Box" height="30px" src="virtualBox.png" />](https://www.virtualbox.org/)
+[<img align="left" alt="Proxmox" height="30px" src="proxmox.png" />](https://proxmox.com/en)
+[<img align="left" alt="JSON" height="30px" src="JSON.png" />](https://www.json.org/json-en.html)
 
 <br>
 <br>
