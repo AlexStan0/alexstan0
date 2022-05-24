@@ -15,7 +15,7 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 [<img align="left" alt="CSS" height="30px" src="css.png" />](https://www.w3schools.com/Css/)
 [<img align="left" alt="Raspberry Pi" height="30px" src="rpi.png" />](https://www.raspberrypi.org/)
 [<img align="left" alt="NodeJS" height="30px" src="node.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Visual Studio" height="30px" src="vs.png" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="Visual Studio Code" height="30px" src="vs.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="trueNas" height="30px" src="trueNAS.png" />](https://www.truenas.com/)
 [<img align="left" alt="Virtual Box" height="30px" src="virtualBox.png" />](https://www.virtualbox.org/)
 [<img align="left" alt="Proxmox" height="30px" src="proxmox.png" />](https://proxmox.com/en)
@@ -24,14 +24,9 @@ Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a pa
 <br>
 <br>
 
-I have been using JavaScript/NodeJS the longest, although I am quite familiar and comfortable with Java, JSON, and Bash. I daily drive both Arch Linux with the i3 window manager alongside Windows 10. I am comfortable working in both the Linux command line interface alongside the Windows Powershell command line interface. 
+I have been using JavaScript/NodeJS, Java, and JSON in the Visual Studio Code IDE for the longest and am most comfortable with them. Although I am fairly comfortable with TypeScript and Python. I daily drive both macOS, and Windows 10. I used to daily drive Arch Linux and am very comfortable working in a Linux, Windows, and Mac environement. 
 
-I am extremly proficient when it comes to hypervisors and virtualization. I have mostly worked with Type-1 Hypervisors on Legacy and Modern Enterprise hardware, namely Proxmox. I am also very proficient in Type-2 Hypervisors, namely Virtual-Box by Oracle, with a knack for troubleshooting both software and hardware related issues.
+I am very proficient when it comes to hypervisors and virtualization. I have been working with Type-1 and Type-2 hypervisors over the past 2 years. I started messing with Type-2 virtualization in 2020 on my Windows desktop at home. Currently I am mostly working with Type-1 hypervisors, namely Proxmox on both consumer and enterprise hardware. When it comes to Type-2 hypervisors I very well versed with Oracle's virtualbox and the Linux CLI hypervisor QEMU.
 
-
-## Hobies & Interests
-
-- I love working directly with computer hardware, especially older Enterprise Hardware. 
-- I am big fan of the outdoors and love to go either hiking or skiing
 
 # Check out some of my projects :arrow_down::arrow_down:
