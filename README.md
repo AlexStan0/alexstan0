@@ -1,4 +1,4 @@
-# Alex Stan
+<!-- # Alex Stan
 
 Hello there :wave: Welcome to my GitHub page. My name is Alex Stan and I am a passionate and skilled programmer with over 2 years experience in backend development.
 
@@ -29,4 +29,5 @@ I have been using JavaScript/NodeJS, Java, and JSON in the Visual Studio Code ID
 I am very proficient when it comes to hypervisors and virtualization. I have been working with Type-1 and Type-2 hypervisors over the past 2 years. I started messing with Type-2 virtualization in 2020 on my Windows desktop at home. Currently I am mostly working with Type-1 hypervisors, namely Proxmox on both consumer and enterprise hardware. When it comes to Type-2 hypervisors I very well versed with Oracle's virtualbox and the Linux CLI hypervisor QEMU.
 
 
-# Check out some of my projects :arrow_down::arrow_down:
+# Check out some of my projects :arrow_down::arrow_down: --!>
+
