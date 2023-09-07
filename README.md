@@ -20,7 +20,7 @@ I'm a passionate student who embarked on a journey into the world of technology,
 <a href="https://reactjs.org/"><img align="left" src="./images/react.svg" width="28" height="28"></a>
 <a href="https://nodejs.org/en/"><img align="left" src="./images/node.png" width="28" height="28"></a>
 <a href="https://git-scm.com/"><img align="left" src="./images/git.svg" width="28" height="28"></a>
-<a href="https://gnu.org/"><img align="left" src="./images/linux-penguin.svg" width="28" height="28"></a>
+<a href="https://gnu.org/"><img align="left" src="./images/linux-penguin.svg" width="28" height="28"></a><br/>
 
 ##### IoT 
 <a href="http://archlinux.org/"><img align="left" src="./images/arch.svg" width="28" height="28"></a>
