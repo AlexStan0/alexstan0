@@ -2,7 +2,7 @@
 
 Welcome to my Github! I'm an avid tech enthusiast and student with >3 years of programming experience
 
-### Who Am I ⁉️:
+### Who Am I ⁉️
 
 I'm a passionate student who embarked on a journey into the world of technology, driven by <br/> a childhood fascination with video games. Exploring the mechanics behind gaming and diving into <br /> Bash scripting and web development, has helped me discover what I enjoy as well as world of endless possibilities
 
