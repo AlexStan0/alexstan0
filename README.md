@@ -2,11 +2,11 @@
 
 Welcome to my Github! I'm an avid tech enthusiast and student with >3 years of programming experience
 
-### Who Am I :question:
+### Who Am I ⁉️:
 
-I'm a passionate student who embarked on a journey into the world of technology, driven by a childhood fascination with video games. From exploring the mechanics behind gaming to diving into Bash scripting and web development, I've discovered a world of endless possibilities
+I'm a passionate student who embarked on a journey into the world of technology, driven by <br/> a childhood fascination with video games. Exploring the mechanics behind gaming and diving into <br /> Bash scripting and web development, has helped me discover what I enjoy as well as world of endless possibilities
 
-### Skills :wrench:
+### Skills 🔧:
 
 ##### Programming Lanugages
 <a href="https://www.java.com/en/"><img align="left" src="./images/java.svg" width="28" height="28"></a>
@@ -29,6 +29,22 @@ I'm a passionate student who embarked on a journey into the world of technology,
 
 ## Hobbies & Interests
  - Gaming :video_game:
- - Hiking :man_walking:
+ - Hiking 🚶
  - Gym :muscle:
 
+### What Am I Currently Doing? 
+ - Studying & Participating in a dual credit <br/> co-op porgram at the University of Waterloo 📚
+ - Creating my personal website 🛠️
+ - Learning [Next.js](https://nextjs.org/)
+
+### How To Contact Me
+If you have any comments, questions, or other feedback I'd love to hear from you!
+
+Personal Email: [stan_alexandru06@yahoo.com](mailto:stan_alexandru06@yahoo.com) <br/>
+Discord: not.alex. <br/>
+Personal Website: Coming Soon 😄 <br/>
+
+## Github Stats
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AlexStan0&theme=rose_pine&hide_border=true"/> <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexStan0&hide=html&hide_border=true&card_width=300&layout=compact&langs_count=4&theme=rose_pine" />
+
+# Check Out Some Of My Projects ⬇️⬇️
