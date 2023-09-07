@@ -1,6 +1,6 @@
 ## Hello World :wave:, I'm Alex!
 
-Welcome to my Github! I'm an avid tech enthusiast and student with >3 years of programming experience
+Welcome to my Github! I'm an avid tech enthusiast and student with ~3 years of programming experience
 
 ### Who Am I ⁉️
 
