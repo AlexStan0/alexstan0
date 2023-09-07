@@ -28,7 +28,7 @@ I'm a passionate student who embarked on a journey into the world of technology,
 <a href="https://www.raspberypi.com/"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
 
 ## Hobbies & Interests
- - Gaming :video_game:
+ - Computer Building 🖥️:
  - Hiking 🚶
  - Gym :muscle:
 
