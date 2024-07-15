@@ -33,7 +33,7 @@ I'm a passionate student who embarked on a journey into the world of technology,
  - Gym :muscle:
 
 ### What Am I Currently Doing? 
- - Studying & Participating in a dual credit <br/> co-op porgram at the University of Waterloo 📚
+ - Studying Computational Mathematics at the University of Waterloo 📚
  - Creating my personal website 🛠️
  - Learning [Next.js](https://nextjs.org/)
 
