@@ -1,6 +1,6 @@
 ## Hello World :wave:, I'm Alex!
 
-Welcome to my Github! I'm an avid tech enthusiast and student with ~3 years of programming experience
+Welcome to my Github! I'm an avid tech enthusiast and student with ~5 years of programming experience
 
 ### Who Am I ⁉️
 
@@ -33,14 +33,14 @@ I'm a passionate student who embarked on a journey into the world of technology,
  - Gym :muscle:
 
 ### What Am I Currently Doing? 
- - Studying Computational Mathematics at the University of Waterloo 📚
+ - Studying Combinatorics & Optimization at the University of Waterloo 📚
  - Creating my personal website 🛠️
  - Learning [Next.js](https://nextjs.org/)
 
 ### How To Contact Me
 If you have any comments, questions, or other feedback I'd love to hear from you!
 
-Personal Email: [stan_alexandru06@yahoo.com](mailto:stan_alexandru06@yahoo.com) <br/>
+Personal Email: [a2stan@yahoo.com](mailto:a2stan@yahoo.com) <br/>
 Discord: not.alex. <br/>
 Personal Website: Coming Soon 😄 <br/>
 
